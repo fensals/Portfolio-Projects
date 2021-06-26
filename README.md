@@ -1,5 +1,6 @@
 # Portfolio-Projects
 This Repository contains portfolio project tasks
-1. Using SQL to query the data for information needed
+1. Data Exploration using SQL- COVID-19 data
 2. Creating a simple dashboard using Tableau for visualizing the queried Data(COVID data)
-3. Data Cleaning in SQL- NAshville Housing Data
+3. Data Cleaning and Data wrangling in SQL- NAshville Housing Data
+4. Correlation Analysis on the movie industry data set using Python.
